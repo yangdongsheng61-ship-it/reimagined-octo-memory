@@ -22,12 +22,12 @@
         </button>
       </header>
 
-      <TodoDashboard />
+      <MDOControlPrototype />
     </div>
   </div>
 </template>
 
 <script setup lang="ts">
-import TodoDashboard from "./components/TodoDashboard.vue";
+import MDOControlPrototype from "./components/MDOControlPrototype.vue";
 </script>
 
